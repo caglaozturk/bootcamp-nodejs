@@ -1,0 +1,15 @@
+{
+  "name": "httprequest",
+  "version": "1.0.0",
+  "description": "xmlhttprequest",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cagla Ozturk",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
