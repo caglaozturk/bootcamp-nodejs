@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "week0-pre-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "circleCalculateArea.js",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
