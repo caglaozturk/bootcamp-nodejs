@@ -1,0 +1,101 @@
+   
+.logo{
+    text-align: center;
+}
+
+.box-1{
+    background-color: rgb(241, 241, 241);
+    height: 80px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.aramaKutusu{
+    height: 22px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.aramaKutusu2{
+    margin-right: auto;
+    margin-left:auto;
+    margin-bottom: 3px;
+    height: 18px;
+    width:250px;
+    background-color:white;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+
+}
+.button{
+    height: 10px;
+    width: 90px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 3px;
+    padding: 3px 10px;
+    background-color: rgb(243, 243, 243);
+}
+
+.button2{
+    height: 10px;
+    width: 100px;
+    background-color: rgb(243, 243, 243);
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 2px;
+    padding: 1px 10px;
+
+}
+
+.div1{
+    width: 300px;
+    margin-top: 6px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#div2{
+    width: auto;
+    height: 90px;
+}
+
+.sol{
+    float: left;
+}
+
+#box1{
+    text-align: center;
+    background: rgb(86, 228, 221);
+    width: 40%;
+    height: 80px;
+    padding-top: 10px;
+
+}
+
+#box2{
+    text-align: center;
+    height: 90px;
+    width: 20%;
+    background: rgb(64, 206, 199);
+}
+#box3{
+    text-align: center;
+    height: 90px;
+    width: 40%;
+    background: rgb(60, 184, 177);
+
+}
+#p1{
+    margin-top:10px;
+    margin-bottom:0px;
+}
