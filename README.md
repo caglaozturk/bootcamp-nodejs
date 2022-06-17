@@ -1,4 +1,4 @@
-# 💻 Logo Cyber Security and Network Technologies & Patika Bootcamp Homeworks
+# 💻 Patika Bootcamp Homeworks
 
 # 📌 Progress
 
